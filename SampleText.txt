@@ -5,5 +5,3 @@ ZXC
 !@#(
 
 TEst
-
-My Commit
